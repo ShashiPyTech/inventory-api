@@ -1,2 +1,7 @@
 # Environment variables
 .env
+.idea/
+.venv/
+__pycache__/
+*.pyc
+*.db
